@@ -8,7 +8,8 @@ module.exports = {
         ws: true,
         changeOrigin: true
       }
-    }
+    },
+    https: false
   },
 
   outputDir: 'target/dist',
